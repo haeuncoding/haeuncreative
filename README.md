@@ -10,7 +10,7 @@ Outside of coding, I enjoy painting and illustrating, as well as making music an
 - 🔭 I’m currently working on polishing some schoolwork projects.
 - 🌱 I’m currently learning C++.
 - 💬 Ask me about some music recommendations or my cat, Artemis!
-- 📫 How to reach me: nathan.kwon.8.18@gmail.com or ![Linkedin](https://www.linkedin.com/in/nathankwon818/)
+- 📫 How to reach me: nathan.kwon.8.18@gmail.com or [Linkedin](https://www.linkedin.com/in/nathankwon818/)
 - ⚡ Fun fact: I'm a metal singer in my spare time.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeuncreative&show_icons=true&theme=tokyonight)
